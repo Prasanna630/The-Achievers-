@@ -1,10 +1,8 @@
-@import url("https://fonts.googleapis.com/css2? family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Op en+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400 ;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital, wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&fami ly=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap"); 
-.bg-container {
-    background-image: url("https://img.freepik.com/free-photo/beautiful-smilingyoung-blonde-woman-pointing-sunglasses-holding-shopping-bags-credit-card-pinkwall_496169-1506.jpg?w=740&t=st=1673537123~exp=1673537723~hmac=c51c89512756671dafea9ae14e361f562c609f5413b75fb0ea48902fed405855");
-    height: 100vh;
-    background-size: cover;
-}
-    
+@import url("https://fonts.googleapis.com/css2? family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Op en+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400 ;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital, wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&fami ly=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap"); .bg-container  {
+	background-image: url("https;
+	height: 100vh;
+	background-size: cover;
+ }
 
 .shopping-card  {
 	text-align: center;
